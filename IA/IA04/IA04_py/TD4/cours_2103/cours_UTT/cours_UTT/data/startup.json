@@ -1,0 +1,552 @@
+[
+    {
+        "Nom": "Anduril Industries",
+        "Nombre d'employés": 500,
+        "Chiffre d'affaires (M$)": 300,
+        "Date de création": "2017",
+        "CEO": "Palmer Luckey",
+        "Siège": "Costa Mesa, USA",
+        "Secteur": "Défense, IA, Drones",
+        "Description": "Développe des systèmes autonomes pour la défense, y compris des drones et des technologies de surveillance.",
+        "Financement total (M$)": 3760,
+        "Investisseurs principaux": [
+            "Founders Fund",
+            "General Catalyst"
+        ],
+        "Dernier tour de table": {
+            "Type": "Series F",
+            "Date": "2024-08-08",
+            "Montant (M$)": 1500
+        },
+        "Produits clés": [
+            "Drones autonomes",
+            "Systèmes de surveillance",
+            "Technologies de reconnaissance"
+        ]
+    },
+    {
+        "Nom": "Shield AI",
+        "Nombre d'employés": 350,
+        "Chiffre d'affaires (M$)": 250,
+        "Date de création": "2015",
+        "CEO": "Brandon Tseng",
+        "Siège": "San Diego, USA",
+        "Secteur": "Défense, IA, Aéronautique",
+        "Description": "Développe des drones autonomes et des systèmes d'IA pour des applications militaires.",
+        "Financement total (M$)": 930,
+        "Investisseurs principaux": [
+            "a16z",
+            "Disruptive"
+        ],
+        "Dernier tour de table": {
+            "Type": "Series F",
+            "Date": "2023-12-29",
+            "Montant (M$)": 100
+        },
+        "Produits clés": [
+            "Drones de combat",
+            "Systèmes de navigation GPS-denied",
+            "Technologies de détection de cibles"
+        ]
+    },
+    {
+        "Nom": "Epirus",
+        "Nombre d'employés": 200,
+        "Chiffre d'affaires (M$)": 150,
+        "Date de création": "2017",
+        "CEO": "Leigh Madden",
+        "Siège": "Los Angeles, USA",
+        "Secteur": "Défense, Sécurité, Technologies anti-drones",
+        "Description": "Fournit des systèmes de neutralisation de drones et des solutions de défense basées sur l'IA.",
+        "Financement total (M$)": 289,
+        "Investisseurs principaux": [
+            "T. Rowe Price",
+            "8VC"
+        ],
+        "Dernier tour de table": {
+            "Type": "Series C",
+            "Date": "2022-01-28",
+            "Montant (M$)": 200
+        },
+        "Produits clés": [
+            "Systèmes anti-drones",
+            "Technologies de détection de menaces",
+            "Solutions de sécurité pour infrastructures critiques"
+        ]
+    },
+    {
+        "Nom": "Scale AI",
+        "Nombre d'employés": 450,
+        "Chiffre d'affaires (M$)": 200,
+        "Date de création": "2016",
+        "CEO": "Alexandr Wang",
+        "Siège": "San Francisco, USA",
+        "Secteur": "Défense, IA, Machine Learning",
+        "Description": "Fournit des solutions d'IA pour l'analyse d'images et la modernisation matérielle pour le secteur de la défense.",
+        "Financement total (M$)": 14000,
+        "Investisseurs principaux": [
+            "Accel",
+            "Founders Fund"
+        ],
+        "Dernier tour de table": {
+            "Type": "Series C",
+            "Date": "2021-04-15",
+            "Montant (M$)": 325
+        },
+        "Produits clés": [
+            "Plateforme d'IA générative",
+            "Solutions de reconnaissance d'images",
+            "Modernisation matérielle"
+        ]
+    },
+    {
+        "Nom": "Rebellion Defense",
+        "Nombre d'employés": 250,
+        "Chiffre d'affaires (M$)": 150,
+        "Date de création": "2019",
+        "CEO": "Chris Lynch",
+        "Siège": "Washington D.C., USA",
+        "Secteur": "Défense, Cybersécurité, IA",
+        "Description": "Développe des logiciels d'IA pour la détection de menaces et la cybersécurité.",
+        "Financement total (M$)": 150,
+        "Investisseurs principaux": [
+            "Lightspeed Venture Partners",
+            "IVP"
+        ],
+        "Dernier tour de table": {
+            "Type": "Series B",
+            "Date": "2021-06-22",
+            "Montant (M$)": 90
+        },
+        "Produits clés": [
+            "Systèmes de détection de menaces",
+            "Plateforme de cybersécurité",
+            "Solutions de surveillance"
+        ]
+    },
+    {
+        "Nom": "Skyrio",
+        "Nombre d'employés": 180,
+        "Chiffre d'affaires (M$)": 120,
+        "Date de création": "2020",
+        "CEO": "Brandon Tseng",
+        "Siège": "San Diego, USA",
+        "Secteur": "Défense, IA, Drones",
+        "Description": "Spécialisée dans les drones autonomes pour la surveillance et la reconnaissance.",
+        "Financement total (M$)": 110,
+        "Investisseurs principaux": [
+            "Andreessen Horowitz",
+            "General Catalyst"
+        ],
+        "Dernier tour de table": {
+            "Type": "Series A",
+            "Date": "2022-03-10",
+            "Montant (M$)": 45
+        },
+        "Produits clés": [
+            "Drones de surveillance",
+            "Technologies de reconnaissance",
+            "Systèmes de navigation autonome"
+        ]
+    },
+    {
+        "Nom": "Firestorm",
+        "Nombre d'employés": 120,
+        "Chiffre d'affaires (M$)": 100,
+        "Date de création": "2022",
+        "CEO": "John Doe",
+        "Siège": "San Diego, USA",
+        "Secteur": "Défense, Drones, Manufacturing",
+        "Description": "Produit des drones modulaires et faciles à fabriquer pour diverses missions de défense.",
+        "Financement total (M$)": 32.5,
+        "Investisseurs principaux": [
+            "Lockheed Martin Ventures",
+            "Andreessen Horowitz"
+        ],
+        "Dernier tour de table": {
+            "Type": "Series A",
+            "Date": "2024-03-15",
+            "Montant (M$)": 12.5
+        },
+        "Produits clés": [
+            "Drones modulaires",
+            "Systèmes de fabrication semi-automatisés",
+            "Contrôleurs de vol"
+        ]
+    },
+    {
+        "Nom": "Vannevar Labs",
+        "Nombre d'employés": 100,
+        "Chiffre d'affaires (M$)": 90,
+        "Date de création": "2019",
+        "CEO": "Ambuj Jain",
+        "Siège": "Palo Alto, USA",
+        "Secteur": "Défense, Renseignement, IA",
+        "Description": "Transforme les communications étrangères en renseignements en temps réel pour les militaires.",
+        "Financement total (M$)": 100,
+        "Investisseurs principaux": [
+            "Accel",
+            "Lightspeed Venture Partners"
+        ],
+        "Dernier tour de table": {
+            "Type": "Series B",
+            "Date": "2022-07-20",
+            "Montant (M$)": 50
+        },
+        "Produits clés": [
+            "Outils de décryptage",
+            "Analyse de communications",
+            "Solutions de renseignement"
+        ]
+    },
+    {
+        "Nom": "CHAOS Industries",
+        "Nombre d'employés": 150,
+        "Chiffre d'affaires (M$)": 110,
+        "Date de création": "2022",
+        "CEO": "Jane Smith",
+        "Siège": "Los Angeles, USA",
+        "Secteur": "Défense, Sécurité, Technologies de communication",
+        "Description": "Développe des systèmes pour la détection de menaces et la sécurisation des communications militaires.",
+        "Financement total (M$)": 215,
+        "Investisseurs principaux": [
+            "Accel",
+            "Disruptive"
+        ],
+        "Dernier tour de table": {
+            "Type": "Series C",
+            "Date": "2023-11-05",
+            "Montant (M$)": 145
+        },
+        "Produits clés": [
+            "Réseaux de communication sécurisés",
+            "Systèmes de détection de menaces",
+            "Technologies de synchronisation avancée"
+        ]
+    },
+    {
+        "Nom": "Saronic Technologies",
+        "Nombre d'employés": 200,
+        "Chiffre d'affaires (M$)": 130,
+        "Date de création": "2022",
+        "CEO": "Alice Johnson",
+        "Siège": "Austin, USA",
+        "Secteur": "Défense, Navale, Autonomie",
+        "Description": "Crée des véhicules de surface autonomes pour les missions navales.",
+        "Financement total (M$)": 175,
+        "Investisseurs principaux": [
+            "Andreessen Horowitz",
+            "Founders Fund"
+        ],
+        "Dernier tour de table": {
+            "Type": "Series B",
+            "Date": "2024-05-10",
+            "Montant (M$)": 75
+        },
+        "Produits clés": [
+            "Véhicules de surface autonomes",
+            "Systèmes de navigation autonome",
+            "Technologies de missions navales"
+        ]
+    },
+    {
+        "Nom": "Lambda Automata",
+        "Nombre d'employés": 90,
+        "Chiffre d'affaires (M$)": 80,
+        "Date de création": "2021",
+        "CEO": "George Karras",
+        "Siège": "Athens, Greece",
+        "Secteur": "Défense, Surveillance, IA",
+        "Description": "Développe des systèmes de surveillance autonomes pour la protection des frontières et des infrastructures.",
+        "Financement total (M$)": 6,
+        "Investisseurs principaux": [
+            "European Innovation Council",
+            "Greek Investment Fund"
+        ],
+        "Dernier tour de table": {
+            "Type": "Series A",
+            "Date": "2023-09-22",
+            "Montant (M$)": 3
+        },
+        "Produits clés": [
+            "Systèmes de surveillance autonomes",
+            "Technologies de protection des frontières",
+            "Solutions de sécurité des infrastructures"
+        ]
+    },
+    {
+        "Nom": "ARX Robotics",
+        "Nombre d'employés": 70,
+        "Chiffre d'affaires (M$)": 60,
+        "Date de création": "2021",
+        "CEO": "Hans Müller",
+        "Siège": "Munich, Germany",
+        "Secteur": "Défense, Robotique, IA",
+        "Description": "Spécialisée dans les systèmes de robots autonomes pour les applications militaires et de sécurité.",
+        "Financement total (M$)": 1.1,
+        "Investisseurs principaux": [
+            "German Defense Innovation Fund",
+            "EU Commission"
+        ],
+        "Dernier tour de table": {
+            "Type": "Seed",
+            "Date": "2022-06-15",
+            "Montant (M$)": 0.5
+        },
+        "Produits clés": [
+            "Robots autonomes",
+            "Systèmes de détection de menaces",
+            "Solutions de sécurité pour les infrastructures"
+        ]
+    },
+    {
+        "Nom": "Blackshark.ai",
+        "Nombre d'employés": 110,
+        "Chiffre d'affaires (M$)": 70,
+        "Date de création": "2019",
+        "CEO": "Michael Schmidt",
+        "Siège": "Graz, Austria",
+        "Secteur": "Défense, IA, Analyse d'images",
+        "Description": "Traite des pétaoctets d'images satellites pour détecter et segmenter des objets et des infrastructures.",
+        "Financement total (M$)": 32,
+        "Investisseurs principaux": [
+            "Austrian Research Promotion Agency",
+            "EU Space Fund"
+        ],
+        "Dernier tour de table": {
+            "Type": "Series B",
+            "Date": "2023-08-10",
+            "Montant (M$)": 16
+        },
+        "Produits clés": [
+            "Analyse d'images satellites",
+            "Détection d'objets et d'infrastructures",
+            "Solutions de surveillance globale"
+        ]
+    },
+    {
+        "Nom": "Helsing",
+        "Nombre d'employés": 140,
+        "Chiffre d'affaires (M$)": 95,
+        "Date de création": "2021",
+        "CEO": "Klaus Weber",
+        "Siège": "Berlin, Germany",
+        "Secteur": "Défense, IA, Solutions de combat",
+        "Description": "Crée des solutions d'IA pour le champ de bataille, intégrant des données de capteurs multiples pour une intelligence en temps réel.",
+        "Financement total (M$)": 761.5,
+        "Investisseurs principaux": [
+            "German Future Combat Air System Fund",
+            "EU Defense Fund"
+        ],
+        "Dernier tour de table": {
+            "Type": "Series C",
+            "Date": "2023-10-12",
+            "Montant (M$)": 300
+        },
+        "Produits clés": [
+            "Solutions d'IA pour le combat",
+            "Intégration de données de capteurs multiples",
+            "Intelligence en temps réel"
+        ]
+    },
+    {
+        "Nom": "Aleet",
+        "Nombre d'employés": 60,
+        "Chiffre d'affaires (M$)": 50,
+        "Date de création": "2020",
+        "CEO": "Anna Nowak",
+        "Siège": "Lublin, Poland",
+        "Secteur": "Défense, Logistique, IA",
+        "Description": "Développe des systèmes de planification de flotte et d'optimisation des itinéraires basés sur l'IA.",
+        "Financement total (M$)": 4.5,
+        "Investisseurs principaux": [
+            "Polish Innovation Fund",
+            "EU Logistics Innovation Fund"
+        ],
+        "Dernier tour de table": {
+            "Type": "Series A",
+            "Date": "2023-05-20",
+            "Montant (M$)": 2.5
+        },
+        "Produits clés": [
+            "Systèmes de planification de flotte",
+            "Optimisation des itinéraires",
+            "Solutions logistiques basées sur l'IA"
+        ]
+    },
+    {
+        "Nom": "BforeAI",
+        "Nombre d'employés": 80,
+        "Chiffre d'affaires (M$)": 65,
+        "Date de création": "2020",
+        "CEO": "Pierre Leclair",
+        "Siège": "Montpellier, France",
+        "Secteur": "Cybersécurité, Défense, IA",
+        "Description": "Fournit des services de protection contre les cybermenaces et d'analyse prédictive des attaques.",
+        "Financement total (M$)": 17.8,
+        "Investisseurs principaux": [
+            "French Cybersecurity Agency",
+            "EU Cyber Defense Fund"
+        ],
+        "Dernier tour de table": {
+            "Type": "Series B",
+            "Date": "2023-04-10",
+            "Montant (M$)": 10
+        },
+        "Produits clés": [
+            "Protection contre les cybermenaces",
+            "Analyse prédictive des attaques",
+            "Solutions de cybersécurité"
+        ]
+    },
+    {
+        "Nom": "HarfangLab",
+        "Nombre d'employés": 95,
+        "Chiffre d'affaires (M$)": 75,
+        "Date de création": "2018",
+        "CEO": "Céline Martin",
+        "Siège": "Paris, France",
+        "Secteur": "Cybersécurité, Défense, IA",
+        "Description": "Fournit des solutions avancées de détection et de réponse aux menaces de cybersécurité.",
+        "Financement total (M$)": 30,
+        "Investisseurs principaux": [
+            "French Defense Innovation Agency",
+            "EU Cybersecurity Fund"
+        ],
+        "Dernier tour de table": {
+            "Type": "Series C",
+            "Date": "2023-09-05",
+            "Montant (M$)": 15
+        },
+        "Produits clés": [
+            "Détection et réponse aux menaces",
+            "Protection des terminaux",
+            "Solutions de cybersécurité avancées"
+        ]
+    },
+    {
+        "Nom": "Orbotix",
+        "Nombre d'employés": 55,
+        "Chiffre d'affaires (M$)": 45,
+        "Date de création": "2023",
+        "CEO": "Ion Popescu",
+        "Siège": "Brasov, Romania",
+        "Secteur": "Défense, Robotique, IA",
+        "Description": "Spécialisée dans les drones autonomes et les solutions de détection de menaces pour la défense.",
+        "Financement total (M$)": 0.5,
+        "Investisseurs principaux": [
+            "Romanian Defense Innovation Fund",
+            "EU Tech Fund"
+        ],
+        "Dernier tour de table": {
+            "Type": "Seed",
+            "Date": "2023-07-15",
+            "Montant (M$)": 0.3
+        },
+        "Produits clés": [
+            "Drones autonomes",
+            "Systèmes de détection de menaces",
+            "Solutions de surveillance"
+        ]
+    },
+    {
+        "Nom": "21strategies",
+        "Nombre d'employés": 40,
+        "Chiffre d'affaires (M$)": 35,
+        "Date de création": "2020",
+        "CEO": "Max Müller",
+        "Siège": "Munich, Germany",
+        "Secteur": "Défense, IA, Stratégie",
+        "Description": "Aide les organisations à prendre des décisions stratégiques sous incertitude grâce à l'IA.",
+        "Financement total (M$)": 3.3,
+        "Investisseurs principaux": [
+            "German Strategy Innovation Fund",
+            "EU AI Fund"
+        ],
+        "Dernier tour de table": {
+            "Type": "Series A",
+            "Date": "2023-06-10",
+            "Montant (M$)": 1.5
+        },
+        "Produits clés": [
+            "Solutions de décision stratégique",
+            "Analyse prédictive",
+            "IA pour la prise de décision"
+        ]
+    },
+    {
+        "Nom": "Command AI",
+        "Nombre d'employés": 50,
+        "Chiffre d'affaires (M$)": 40,
+        "Date de création": "2023",
+        "CEO": "Marie Dupont",
+        "Siège": "Paris, France",
+        "Secteur": "Défense, IA, Commandement",
+        "Description": "Fournit des capacités de commandement et de contrôle basées sur l'IA pour les forces de défense.",
+        "Financement total (M$)": 3,
+        "Investisseurs principaux": [
+            "French Defense Innovation Agency",
+            "EU AI Fund"
+        ],
+        "Dernier tour de table": {
+            "Type": "Series A",
+            "Date": "2023-08-20",
+            "Montant (M$)": 1.5
+        },
+        "Produits clés": [
+            "Capacités de commandement et de contrôle",
+            "Solutions de prise de décision",
+            "IA pour les opérations de défense"
+        ]
+    },
+    {
+        "Nom": "Iridium Communications",
+        "Nombre d'employés": 500,
+        "Chiffre d'affaires (M$)": 500,
+        "Date de création": "2001",
+        "CEO": "Matt Desch",
+        "Siège": "McLean, USA",
+        "Secteur": "Télécommunications, Défense, Satellites",
+        "Description": "Fournit des services de communication par satellite pour les applications militaires et commerciales.",
+        "Financement total (M$)": 6000,
+        "Investisseurs principaux": [
+            "Herald Investment Management",
+            "European Union"
+        ],
+        "Dernier tour de table": {
+            "Type": "Public",
+            "Date": "2020-01-01",
+            "Montant (M$)": 22.1
+        },
+        "Produits clés": [
+            "Communications par satellite",
+            "Services de télécommunications globales",
+            "Solutions de géopositionnement"
+        ]
+    },
+    {
+        "Nom": "SiOnyx",
+        "Nombre d'employés": 150,
+        "Chiffre d'affaires (M$)": 100,
+        "Date de création": "2006",
+        "CEO": "Stephen Saylor",
+        "Siège": "Beverly, USA",
+        "Secteur": "Technologie des capteurs, Défense, Imagerie",
+        "Description": "Développe des capteurs d'imagerie infrarouge pour des applications de défense et de sécurité.",
+        "Financement total (M$)": 21.3,
+        "Investisseurs principaux": [
+            "Crosslink Capital",
+            "Coherent"
+        ],
+        "Dernier tour de table": {
+            "Type": "Acquired",
+            "Date": "2018-04-15",
+            "Montant (M$)": 20
+        },
+        "Produits clés": [
+            "Capteurs d'imagerie infrarouge",
+            "Technologies de vision nocturne",
+            "Solutions de sécurité et de défense"
+        ]
+    }
+]
