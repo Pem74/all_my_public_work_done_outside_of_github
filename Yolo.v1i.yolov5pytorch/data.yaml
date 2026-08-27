@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 6
+names: ['bicycle', 'boat', 'car', 'drone', 'human', 'scooter']
+
+roboflow:
+  workspace: ia021
+  project: yolo-toabw
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ia021/yolo-toabw/dataset/1
