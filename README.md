@@ -7,4 +7,6 @@ Currently, only my work related to IA is here.
 ## IA04 :
 - TD 1-2 : fine tunning
 - TD 3-5 : LLM
+- TD 6 : DDPM
+- TD 7 : Word embedding
 - TD 8-9 : Transformers / Vision-transformers from scratch
