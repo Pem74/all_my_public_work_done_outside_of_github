@@ -4,6 +4,10 @@ All these projects have been done during my studies.
 There is not everything because some projects are not finished or not enough important.
 Currently, only my work related to IA is here.
 
+## IA02 :
+- Projet : GAN and DBSCAN on peptides
+- 
+
 ## IA03 :
 - Projet : YOLO with camera
 - Projet RL : reinforcement learning with DQN
