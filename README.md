@@ -4,9 +4,15 @@ All these projects have been done during my studies.
 There is not everything because some projects are not finished or not enough important.
 Currently, only my work related to IA is here.
 
+## IA01 :
+- 
+
 ## IA02 :
 - Projet : GAN and DBSCAN on peptides
-- 
+- TD 0 : Regression
+- TD 1 : Linear classification
+- TD 2 : Comparison with non-linear method
+- TD 3 : PCA
 
 ## IA03 :
 - Projet : YOLO with camera
