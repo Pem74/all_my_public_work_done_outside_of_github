@@ -5,10 +5,10 @@ There is not everything because some projects are not finished or not enough imp
 Currently, only my work related to IA is here.
 
 ## IA01 :
-- 
+- Project : k-NN, Radom Forest, Logistic regression, Neural network, SVC on health dataset
 
 ## IA02 :
-- Projet : GAN and DBSCAN on peptides
+- Projet : GAN and DBSCAN on peptides dataset
 - TD 0 : Regression
 - TD 1 : Linear classification
 - TD 2 : Comparison with non-linear method
