@@ -24,3 +24,4 @@ Currently, only my work related to IA is here.
 - TD 6 : DDPM
 - TD 7 : Word embedding
 - TD 8-9 : Transformers / Vision-transformers from scratch
+- Projet segmentation : Segmentation
